@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta  name="robots" content="noindex, nofollow, width=device-width, initial-scale=1.0"  />
+    <meta name="viewport" content="noindex, nofollow, width=device-width, initial-scale=1.0" />
+    <title>Details - iDr-Medical</title>
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://registration.idr-medical.se/css/bootstrap.custom.css?v=BL_UxCTIgQ441WniqLzH_Fb8md-HQfdrYYe1foTtqzc" />
+    <link rel="stylesheet" href="https://registration.idr-medical.se/css/site.min.css?v=CqoFGeXN8baXuEF2njSlOODm14yIRl_LUnhwsdTKNl0" />
+
+    <style>
+        input.input-validation-error,
+        textarea.input-validation-error,
+        select.input-validation-error {
+            background: red;
+            border: 1px solid #B00000;
+            /*#580000*/
+        }
+
+    
+    </style>
+
+</head>
+<body style="margin-bottom: 10%">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-blue box-shadow mb-3 border-bottomBlack">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/"><img width="170" src="https://registration.idr-medical.se/images/Signaturlogo.png" title="core" alt="" /></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    
+
+<ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="login" href="/Identity/Account/Login">Login</a>
+        </li>
+</ul>
+
+                    <ul class="navbar-nav flex-grow-1">
+
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" style="margin-bottom: 10px" href="#" target="_blank"><b>Register Here</b></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" style="margin-bottom: 10px" href="#" target="_blank"><b>Validation</b></a>
+                            </li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            
+
+<head>
+    <link rel="stylesheet" href="/css/bootstrap.custom.css?v=BL_UxCTIgQ441WniqLzH_Fb8md-HQfdrYYe1foTtqzc" />
+    <link rel="stylesheet" href="/css/custom.css" />
+    <link rel="stylesheet" href="/css/site.min.css?v=CqoFGeXN8baXuEF2njSlOODm14yIRl_LUnhwsdTKNl0" />
+    <style>
+        .width200 {
+            width: 200px;
+            height: auto;
+        }
+    </style>
+    <style>
+        @media print {
+            .width200 {
+                width: 425px;
+                height: auto;
+            }
+        }
+
+        .width370 {
+            width: 370px;
+        }
+
+        @media (min-width: 772px) {
+            .width370 {
+                width: 370px;
+            }
+        }
+
+        @media(max-width: 771px) and (min-width: 0px) {
+            .width370 {
+                width: 330px;
+            }
+        }
+
+        @media (min-width: 772px) {
+            .RowInsideWidth {
+                width: 20%;
+                padding-left: 10%;
+            }
+        }
+
+        @media(max-width: 771px) and (min-width: 0px) {
+            .RowInsideWidth {
+                width: 30%;
+                padding-left: 10%;
+            }
+        }
+    </style>
+
+</head>
+<div class="col-6xl-4  col-4xl-6  col-5xl-6  col-xxxl-6  col-xxl-6  col-lg-10 col-xl-8 ">
+    <div class="row">
+
+        <div class="nopadding col-md-11 col-11,9 col-sm-11 mr-2 ml-sm-4 ml-md-4">
+            <div id="print">
+
+                <div class="row">
+
+                    <div class="pt-sm-4 col-12 col-sm-6">
+                        <h1>Details</h1>
+                            <h2>PCR</h2>
+                        <br />
+
+                        <div class="width370" style="border: 5px solid black; padding-left: 10px;">
+                                <div class="row">
+                                    <div style="padding-left: 5px">
+                                        <img style="width: 100px" src="https://registration.idr-medical.se/Images/green-checkmark.jpg" alt="Image" />
+                                        <!--<img src=-->   <!--/>-->
+                                    </div>
+
+                                    <div>
+                                        <h1 onclick="GlowGreen()" class="green3-fade confirmGreen_selection approved"><b> APPROVED</b></h1>
+                                    </div>
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-3">
+                                        <h4><b>Result: </b></h4>
+                                    </div>
+                                        <div class="col-9">
+                                            <h4 style="color: #01b200"><b>PCR NEGATIVE</b></h4>
+                                        </div>
+                                   
+
+                                </div>
+
+                            <br />
+
+                            <div id="ElapsedTime">
+                                <h4>Elapsed time since tested:</h4>
+                                <h5><b>1 days, 15 hours and 16 minutes</b></h5>
+
+                                <br />
+
+                            </div>
+                        </div>
+
+
+
+
+                    </div>
+
+
+                    <div class="col-sm-offset-0">
+                        <div class="pb-4 col-8 offset-3 col-sm-6">
+                            <div style="margin-top: 30px;">
+                                <img class="width200" id="QrId" src="data:image/png;base64,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" />
+
+
+
+                                <!--<img src=-->   <!--/>-->
+                            </div>
+                            <div class="pl-0" align="center" style="font-size: 30px;">
+                                <b>SK7977</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                
+
+            <div id="ResultInfo">
+                        <hr />
+                        <div>
+                            <div>
+                                <b>The print certificate buttons will only be active when you have a complete result.</b>
+                            </div>
+                            <br />
+                            <div class="row float-right">
+                                    <div style="width: 10px"></div>
+                                    <div id="PrintCertButton2" class="pl-sm-0 pb-3 pb-sm-0">
+                                        <a class="btn btn-primary" href="#" target="_blank">Print Result Certificate</a>
+                                    </div>
+                                    <div style="width: 10px"></div>
+                                <div id="PrintInfo2">
+                                        <a class="btn btn-danger btnOrange" href="#" target="_blank">Print Instructions</a>
+                                    </div>
+                                    <div style="width: 10px"></div>
+                                    <div id="PrintCertButton3" style="padding-left: 10px;" class="pl-sm-0 pb-3 pb-sm-0">
+                                        <a class="btn btn-primary btnLightPurple" href="#" target="_blank">Print Laboratory Certificate</a>
+                                    </div>
+                                    <div style="width: 10px"></div>
+                            </div>
+                            <br />
+                            <br />
+                            <br />
+                                <h3>
+                                    Your test status is:
+                                </h3>
+                                    <h4>
+                                        <b>Result is ready.</b>
+                                    </h4>
+                                <br />
+                                <br />
+                        </div>
+                </div>
+
+
+                <div>
+                    <h4>CUSTOMER INFORMATION</h4>
+                    <hr />
+                    <div class="row">
+                        <div class="col-4 col-md-3">
+                            <b> Personal Nr.:</b>
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+                            <b> 1987 12 09 - 5010</b>
+                        </div>
+
+
+                        <div class="col-4 col-md-3">
+                            <b> Surname:</b>
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+                            <b> BarreraDiaz </b>
+                        </div>
+
+                        <div class="col-4 col-md-3">
+                            <b> Given names:</b>
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+                            <b> CarlosAlberto </b>
+                        </div>
+
+
+
+                        <div class="col-4 col-md-3">
+                            <b> Passport Nr.:</b>
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+                            <b>PAK031757</b>
+                        </div>
+                        <div class="col-4 col-md-3">
+                            Gender:
+                        </div>
+                        <div class="col-8 col-md-9">
+                            MALE
+                        </div>
+
+                        <div class="col-4 col-md-3">
+
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+
+                        </div>
+
+                    </div>
+                    <br/>
+                    <br />
+                    <h4>TEST INFORMATION</h4>
+                    <hr>
+                    <div class="row">
+                        <div class="col-4 col-md-3">
+                            Clinic name:
+                        </div>
+
+                        <div class="col-8 col-md-9">
+                            Stockholm - Farsta - SVEA
+                        </div>
+                        <div class="col-4 col-md-3 nopadding-right">
+                            Test method:
+                        </div>
+
+                        <div class="col-8 col-md-9">
+                            PCR ORDINARY - Travel Certificates (and combinations)
+                        </div>
+                        <div class="col-4 col-md-3">
+                            Id Checked:
+                        </div>
+                        <div class="col-8 col-md-9">
+                            <input checked="checked" class="check-box" disabled="disabled" type="checkbox" />
+                        </div>
+                        <div class="col-4 col-md-3">
+                            <b>Test Date:</b>
+                        </div>
+
+                        <div class="col-8 col-md-9" style="font-size: 17px">
+                            <b> 2022-01-13 18:15</b>
+                        </div>
+                    </div>
+
+
+                        <div class="row">
+
+                            <div class="col-4 col-md-3">
+                                <b> PU Nr.: </b>
+                            </div>
+                            <div class="col-8 col-md-9" style="font-size: 17px">
+                                <b> PU25342</b>
+                            </div>
+
+
+                            <div class="col-4 col-md-3">
+                                <b>Result:</b>
+                            </div>
+                            <div class="col-8 col-md-9">
+                                <b>PCR NEGATIVE</b>
+                            </div>
+
+
+
+                            <div class="col-4 col-md-3">
+                                Temperatur Celsius:
+                            </div>
+                            <div class="col-8 col-md-9">
+                                36,0
+                            </div>
+
+
+
+                            <div class="col-4 col-md-3">
+                                No Symptoms:
+                            </div>
+                            <div class="col-8 col-md-9">
+                                <input checked="checked" class="check-box" disabled="disabled" type="checkbox" />
+                            </div>
+                            <div class="col-4 col-md-3">
+
+                            </div>
+                            <div class="col-8 col-md-9" style="font-size: 20px">
+
+                            </div>
+                        </div>
+
+
+                    <br/>
+                    <br />
+                    <h4>OTHER INFORMATION</h4>
+                    <hr>
+                    <div class="row">
+                        <div class="col-4 col-md-3">
+                            Reservation Nr.:
+                        </div>
+                        <div class="col-8 col-md-9">
+                            SK7977
+                        </div>
+                        <div class="col-4 col-md-3">
+                            E-mail:
+                        </div>
+                        <div class="col-8 col-md-9">
+                            <a href="mailto:cabdiaz87@gmail.com">cabdiaz87@gmail.com</a>
+                        </div>
+
+                        <div class="col-4 col-md-3">
+                            Telephone Nr.:
+                        </div>
+                        <div class="col-8 col-md-9">
+ 0046760836472
+                        </div>
+                        <div class="col-4 col-md-3">
+                            <b>Departure date:</b>
+                        </div>
+                        <div class="col-8 col-md-9" style="font-size: 20px">
+                            <b>2022-01-15 06:45</b>
+                        </div>
+                        <div class="col-4 col-md-3">
+                            Destination: 
+                        </div>
+                            <div class="col-8 col-md-9">
+                                <b>Salzburg</b>
+                            </div>
+                    </div>
+                    <br/>
+                <br/>
+                    <h4>PRIVACY POLICY</h4>
+                    <hr>
+                    <div class="row">
+
+                        <div class="col-4 col-md-3">
+                            Accepted:
+                        </div>
+                        <div class="col-8 col-md-6">
+                            <input checked="checked" class="check-box" disabled="disabled" type="checkbox" />
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-9 ">
+                            I agree that my personal data is handled digitally, and that a certificate containing my personal data will be sent electronically from the iDr Clinic to my above-mentioned e-mail address.
+                            I am responsible for that the contact information above is correctly stated and I disclaim iDr Clinic from any responsibility regarding consequences if my personal information is incorrectly stated, accidentally sent to an unauthorized recipient or other consequences secondary to digital handling.
+                            Through my signature, I confirm that I have received information that there is 99% certainty that my sample is analyzable and that I will not hold iDr Clinic responsible for any additional costs that may affect me in the event of a positive, delayed or non-analyzable sample.
+                            Issuing a certificate to children under the age of 16 requires a parent's signature.
+                        </div>
+                        <div class="col-sm-6"></div>
+                    </div>
+                    <br>
+
+                </div>
+
+                <br/>
+                <div class="form-group row offset-2 offset-sm-0">
+                    <div class="row pl-0 pl-sm-2 col-12">
+
+
+
+
+                    </div>
+
+                    <div class="row pl-0 pl-sm-2 col-12">
+
+
+
+                    </div>
+                </div>
+
+
+                <br />
+                <br />
+            </div>
+        </div>
+    </div>
+</div>
+    <script type="text/javascript">
+        function printPage() {
+            //Get the print button and put it into a variable
+            //var printButton = document.getElementById("printpagebutton");
+            //var ElapsedTime = document.getElementById("ElapsedTime");
+
+            ////Set the print button visibility to 'hidden'
+            //printButton.style.visibility = 'hidden';
+            //ElapsedTime.style.visibility = 'hidden';
+            //ElapsedTime.hide();
+            $("#printpagebutton").hide();
+            $("#ElapsedTime").hide();
+            $("#ResultInfo").hide();
+            //Print the page content
+            window.print();
+            //Set the print button to 'visible' again
+            //[Delete this line if you want it to stay hidden after printing]
+            //printButton.style.visibility = 'visible';
+            //ElapsedTime.style.visibility = 'visible';
+            //ElapsedTime.show();
+            $("#printpagebutton").show();
+            $("#ElapsedTime").show();
+            $("#ResultInfo").show();
+        }
+    </script>
+
+<script>
+    function GlowGreen() {
+        $('.green3-fade').toggleClass('green3-fade-active');
+    }
+
+    function GlowRed() {
+        $('.red-fade').toggleClass('red-fade-active');
+    }
+</script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.0/jquery.min.js"></script>
+
+        </main>
+    </div>
+
+    <footer class="fot-man text-muted bg-blue border-topBlack">
+        <div class="container-fluid">
+            <div style="position: relative">
+                <br />
+                <br />
+                <br />
+                <div style="padding-left: 22px; "> &copy; 2020 - iDr-Medical - <a target="_blank" href="https://registration.idr-medical.se/Home/Privacy">Privacy Policy</a></div>
+                <div class="footer-padd" style="bottom: 5px;"><span> &copy; 2020 - Website created by & all rights reserved to: James Johansson.</span></div>
+                <br />
+                <br />
+                <br />
+
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="/lib/jquery/dist/jquery.min.js?v=82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js?v=XZfkOGd6FuhF88h5GgEmRIpXbm-hBkFo74yYDPY5rbw"></script>
+    <script src="/js/site.js?v=sPamMlSupOEGq_BP2AazhalHtChdZrqbLUvQLqvI8Q4"></script>
+    <!--<!-- Latest compiled and minified CSS -->
+
+    <!-- jQuery library -->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
+    <!-- Latest compiled JavaScript -->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script>
+
+        var clicked = false;
+        function clickEvent(event) {
+
+            if (!clicked) {
+                //event.preventDefault();
+                clicked = true;
+                console.log('clicked!!');
+                $('#AntiSpam3').click();
+                setTimeout(function () {
+                    //event.preventDefault();
+                    clicked = false;
+                }, 120000);
+            } else {
+                event.preventDefault();
+            }
+        }
+    </script>
+
+
+    
+</body>
+</html>
